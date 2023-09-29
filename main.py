@@ -1,6 +1,6 @@
 import multiprocessing
 import time
-import os  # 这是新导入的库，用于获取PID
+import os
 
 
 class Task:
